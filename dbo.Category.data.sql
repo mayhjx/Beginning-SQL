@@ -1,0 +1,7 @@
+INSERT INTO [dbo].[Category] ([CategoryId], [Category]) VALUES (1, N'Thriller')
+INSERT INTO [dbo].[Category] ([CategoryId], [Category]) VALUES (2, N'Romance')
+INSERT INTO [dbo].[Category] ([CategoryId], [Category]) VALUES (3, N'Horror')
+INSERT INTO [dbo].[Category] ([CategoryId], [Category]) VALUES (4, N'War')
+INSERT INTO [dbo].[Category] ([CategoryId], [Category]) VALUES (5, N'Sci-fi')
+INSERT INTO [dbo].[Category] ([CategoryId], [Category]) VALUES (6, N'Historical')
+INSERT INTO [dbo].[Category] ([CategoryId], [Category]) VALUES (7, N'Comedy')
